@@ -1,0 +1,25 @@
+USE [Reservoir]
+GO
+
+/****** Object:  Table [dbo].[PHONE_INFO]    Script Date: 03/22/2014 00:25:46 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[PHONE_INFO](
+	[PHONE_ID] [int] IDENTITY(1,1) NOT NULL,
+	[PHONE] [varchar](11) NOT NULL,
+	[POSX] [numeric](18, 8) NULL,
+	[POSY] [numeric](18, 8) NULL
+) ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+

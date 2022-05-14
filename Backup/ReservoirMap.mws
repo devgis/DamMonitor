@@ -1,0 +1,356 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<WorkSpace name="" version="MXP_WorkSpace_1_3" date="2014-03-21T20:02:48+08:00" xmlns:gml="http://www.opengis.net/gml" xmlns="http://www.mapinfo.com/mxp">
+  <ConnectionSet />
+  <DataSourceDefinitionSet>
+    <TABFileDataSourceDefinition id="id1" readOnly="false">
+      <DataSourceName>渠道地形图_0</DataSourceName>
+      <FileName>渠道地形图_0.tab</FileName>
+    </TABFileDataSourceDefinition>
+    <TABFileDataSourceDefinition id="id2" readOnly="false">
+      <DataSourceName>渠道地形图_ASSIST</DataSourceName>
+      <FileName>渠道地形图_ASSIST.tab</FileName>
+    </TABFileDataSourceDefinition>
+    <TABFileDataSourceDefinition id="id3" readOnly="false">
+      <DataSourceName>渠道地形图_DGX</DataSourceName>
+      <FileName>渠道地形图_DGX.tab</FileName>
+    </TABFileDataSourceDefinition>
+    <TABFileDataSourceDefinition id="id4" readOnly="false">
+      <DataSourceName>渠道地形图_DLDW</DataSourceName>
+      <FileName>渠道地形图_DLDW.tab</FileName>
+    </TABFileDataSourceDefinition>
+    <TABFileDataSourceDefinition id="id5" readOnly="false">
+      <DataSourceName>渠道地形图_DLSS</DataSourceName>
+      <FileName>渠道地形图_DLSS.tab</FileName>
+    </TABFileDataSourceDefinition>
+    <TABFileDataSourceDefinition id="id6" readOnly="false">
+      <DataSourceName>渠道地形图_DMTZ</DataSourceName>
+      <FileName>渠道地形图_DMTZ.tab</FileName>
+    </TABFileDataSourceDefinition>
+    <TABFileDataSourceDefinition id="id7" readOnly="false">
+      <DataSourceName>渠道地形图_GCD</DataSourceName>
+      <FileName>渠道地形图_GCD.tab</FileName>
+    </TABFileDataSourceDefinition>
+    <TABFileDataSourceDefinition id="id8" readOnly="false">
+      <DataSourceName>渠道地形图_GCD11</DataSourceName>
+      <FileName>渠道地形图_GCD11.tab</FileName>
+    </TABFileDataSourceDefinition>
+    <TABFileDataSourceDefinition id="id9" readOnly="false">
+      <DataSourceName>渠道地形图_GXYZ</DataSourceName>
+      <FileName>渠道地形图_GXYZ.tab</FileName>
+    </TABFileDataSourceDefinition>
+    <TABFileDataSourceDefinition id="id10" readOnly="false">
+      <DataSourceName>渠道地形图_JJ</DataSourceName>
+      <FileName>渠道地形图_JJ.tab</FileName>
+    </TABFileDataSourceDefinition>
+    <TABFileDataSourceDefinition id="id11" readOnly="false">
+      <DataSourceName>渠道地形图_JMD</DataSourceName>
+      <FileName>渠道地形图_JMD.tab</FileName>
+    </TABFileDataSourceDefinition>
+    <TABFileDataSourceDefinition id="id12" readOnly="false">
+      <DataSourceName>渠道地形图_JZD</DataSourceName>
+      <FileName>渠道地形图_JZD.tab</FileName>
+    </TABFileDataSourceDefinition>
+    <TABFileDataSourceDefinition id="id13" readOnly="false">
+      <DataSourceName>渠道地形图_JZP</DataSourceName>
+      <FileName>渠道地形图_JZP.tab</FileName>
+    </TABFileDataSourceDefinition>
+    <TABFileDataSourceDefinition id="id14" readOnly="false">
+      <DataSourceName>渠道地形图_KZD</DataSourceName>
+      <FileName>渠道地形图_KZD.tab</FileName>
+    </TABFileDataSourceDefinition>
+    <TABFileDataSourceDefinition id="id15" readOnly="false">
+      <DataSourceName>渠道地形图_SXSS</DataSourceName>
+      <FileName>渠道地形图_SXSS.tab</FileName>
+    </TABFileDataSourceDefinition>
+    <TABFileDataSourceDefinition id="id16" readOnly="false">
+      <DataSourceName>渠道地形图_TF</DataSourceName>
+      <FileName>渠道地形图_TF.tab</FileName>
+    </TABFileDataSourceDefinition>
+    <TABFileDataSourceDefinition id="id17" readOnly="false">
+      <DataSourceName>渠道地形图_ZBTZ</DataSourceName>
+      <FileName>渠道地形图_ZBTZ.tab</FileName>
+    </TABFileDataSourceDefinition>
+    <TABFileDataSourceDefinition id="id18" readOnly="false">
+      <DataSourceName>渠道地形图_ZDH</DataSourceName>
+      <FileName>渠道地形图_ZDH.tab</FileName>
+    </TABFileDataSourceDefinition>
+    <TABFileDataSourceDefinition id="id19" readOnly="false">
+      <DataSourceName>渠道地形图_ZJ</DataSourceName>
+      <FileName>渠道地形图_ZJ.tab</FileName>
+    </TABFileDataSourceDefinition>
+    <TABFileDataSourceDefinition id="id20" readOnly="false">
+      <DataSourceName>渠道地形图_公里</DataSourceName>
+      <FileName>渠道地形图_公里.tab</FileName>
+    </TABFileDataSourceDefinition>
+    <TABFileDataSourceDefinition id="id21" readOnly="false">
+      <DataSourceName>渠道地形图_村组界</DataSourceName>
+      <FileName>渠道地形图_村组界.tab</FileName>
+    </TABFileDataSourceDefinition>
+  </DataSourceDefinitionSet>
+  <MapDefinitionSet>
+    <MapDefinition id="id22" name="Map2" alias="Map2">
+      <DisplayConditions>
+        <MapSize uom="mapinfo:imagesize pixel">
+          <ImageWidth>1018</ImageWidth>
+          <ImageHeight>615</ImageHeight>
+        </MapSize>
+        <ZoomAndCenter>
+          <MapZoom uom="mapinfo:length m">205512.400896</MapZoom>
+          <gml:Point srsName="mapinfo:coordsys 0,7">
+            <gml:coordinates>523923.31644085969,3081366.7607153808</gml:coordinates>
+          </gml:Point>
+        </ZoomAndCenter>
+        <DisplayCoordSys>
+          <SRSName>mapinfo:coordsys 0,7</SRSName>
+        </DisplayCoordSys>
+        <ResizeMethod>preserveZoom</ResizeMethod>
+        <RasterConditions dither="halfTone" rasterReprojectionResampling="cubicConvolution" rasterReprojection="none" trueColor="true" optimizeRasterLayers="screen" optimizeVectorLayers="screen" />
+        <RenderingOptions enableOpacity="false" enableAntiAlias="false" />
+      </DisplayConditions>
+      <LayerList>
+        <FeatureLayer id="id23" name="渠道地形图_村组界" alias="渠道地形图_村组界" volatile="unknown">
+          <Visibility visible="true">
+            <VisibleRange enabled="true">
+              <ZoomRange uom="mapinfo:length m" minInclusive="true" maxInclusive="false">0 20000</ZoomRange>
+            </VisibleRange>
+          </Visibility>
+          <DataSourceRef ref="id21" />
+        </FeatureLayer>
+        <FeatureLayer id="id24" name="渠道地形图_ZJ" alias="渠道地形图_ZJ" volatile="unknown">
+          <Visibility visible="true">
+            <VisibleRange enabled="true">
+              <ZoomRange uom="mapinfo:length m" minInclusive="true" maxInclusive="false">0 6000</ZoomRange>
+            </VisibleRange>
+          </Visibility>
+          <DataSourceRef ref="id19" />
+        </FeatureLayer>
+        <FeatureLayer id="id25" name="渠道地形图_ZDH" alias="渠道地形图_ZDH" volatile="unknown">
+          <Visibility visible="true">
+            <VisibleRange enabled="true">
+              <ZoomRange uom="mapinfo:length m" minInclusive="true" maxInclusive="false">0 20000</ZoomRange>
+            </VisibleRange>
+          </Visibility>
+          <DataSourceRef ref="id18" />
+        </FeatureLayer>
+        <FeatureLayer id="id26" name="渠道地形图_JZP" alias="渠道地形图_JZP" volatile="unknown">
+          <Visibility visible="true">
+            <VisibleRange enabled="true">
+              <ZoomRange uom="mapinfo:length m" minInclusive="true" maxInclusive="false">0 30000</ZoomRange>
+            </VisibleRange>
+          </Visibility>
+          <DataSourceRef ref="id13" />
+        </FeatureLayer>
+        <FeatureLayer id="id27" name="渠道地形图_JJ" alias="渠道地形图_JJ" volatile="unknown">
+          <Visibility visible="true">
+            <VisibleRange enabled="true">
+              <ZoomRange uom="mapinfo:length m" minInclusive="true" maxInclusive="false">0 9000</ZoomRange>
+            </VisibleRange>
+          </Visibility>
+          <DataSourceRef ref="id10" />
+        </FeatureLayer>
+        <FeatureLayer id="id28" name="渠道地形图_GCD11" alias="渠道地形图_GCD11" volatile="unknown">
+          <Visibility visible="true">
+            <VisibleRange enabled="true">
+              <ScaleRange minInclusive="true" maxInclusive="false">0 1500</ScaleRange>
+            </VisibleRange>
+          </Visibility>
+          <DataSourceRef ref="id8" />
+        </FeatureLayer>
+        <FeatureLayer id="id29" name="渠道地形图_公里" alias="渠道地形图_公里" volatile="unknown">
+          <Visibility visible="true">
+            <VisibleRange enabled="true">
+              <ZoomRange uom="mapinfo:length m" minInclusive="true" maxInclusive="false">0 2000</ZoomRange>
+            </VisibleRange>
+          </Visibility>
+          <DataSourceRef ref="id20" />
+        </FeatureLayer>
+        <FeatureLayer id="id30" name="渠道地形图_GCD" alias="渠道地形图_GCD" volatile="unknown">
+          <Visibility visible="true">
+            <VisibleRange enabled="true">
+              <ZoomRange uom="mapinfo:length m" minInclusive="true" maxInclusive="false">0 1000</ZoomRange>
+            </VisibleRange>
+          </Visibility>
+          <DataSourceRef ref="id7" />
+        </FeatureLayer>
+        <FeatureLayer id="id31" name="渠道地形图_KZD" alias="渠道地形图_KZD" volatile="unknown">
+          <Visibility visible="true">
+            <VisibleRange enabled="true">
+              <ZoomRange uom="mapinfo:length m" minInclusive="true" maxInclusive="false">0 1000</ZoomRange>
+            </VisibleRange>
+          </Visibility>
+          <DataSourceRef ref="id14" />
+        </FeatureLayer>
+        <FeatureLayer id="id32" name="渠道地形图_JZD" alias="渠道地形图_JZD" volatile="unknown">
+          <Visibility visible="true">
+            <VisibleRange enabled="true">
+              <ZoomRange uom="mapinfo:length m" minInclusive="true" maxInclusive="false">0 900</ZoomRange>
+            </VisibleRange>
+          </Visibility>
+          <DataSourceRef ref="id12" />
+        </FeatureLayer>
+        <FeatureLayer id="id33" name="渠道地形图_0" alias="渠道地形图_0" volatile="unknown">
+          <Visibility visible="true">
+            <VisibleRange enabled="true">
+              <ZoomRange uom="mapinfo:length m" minInclusive="true" maxInclusive="false">0 1500</ZoomRange>
+            </VisibleRange>
+          </Visibility>
+          <DataSourceRef ref="id1" />
+        </FeatureLayer>
+        <FeatureLayer id="id34" name="渠道地形图_GXYZ" alias="渠道地形图_GXYZ" volatile="unknown">
+          <Visibility visible="true">
+            <VisibleRange enabled="true">
+              <ZoomRange uom="mapinfo:length m" minInclusive="true" maxInclusive="false">0 3000</ZoomRange>
+            </VisibleRange>
+          </Visibility>
+          <DataSourceRef ref="id9" />
+        </FeatureLayer>
+        <FeatureLayer id="id35" name="渠道地形图_DGX" alias="渠道地形图_DGX" volatile="unknown">
+          <Visibility visible="true">
+            <VisibleRange enabled="true">
+              <ZoomRange uom="mapinfo:length m" minInclusive="true" maxInclusive="false">0 150000</ZoomRange>
+            </VisibleRange>
+          </Visibility>
+          <DataSourceRef ref="id3" />
+        </FeatureLayer>
+        <FeatureLayer id="id36" name="渠道地形图_DLDW" alias="渠道地形图_DLDW" volatile="unknown">
+          <Visibility visible="true">
+            <VisibleRange enabled="true">
+              <ZoomRange uom="mapinfo:length m" minInclusive="true" maxInclusive="false">0 3000</ZoomRange>
+            </VisibleRange>
+          </Visibility>
+          <DataSourceRef ref="id4" />
+        </FeatureLayer>
+        <FeatureLayer id="id37" name="渠道地形图_DLSS" alias="渠道地形图_DLSS" volatile="unknown">
+          <Visibility visible="true">
+            <VisibleRange enabled="true">
+              <ZoomRange uom="mapinfo:length m" minInclusive="true" maxInclusive="false">0 150000</ZoomRange>
+            </VisibleRange>
+          </Visibility>
+          <DataSourceRef ref="id5" />
+        </FeatureLayer>
+        <FeatureLayer id="id38" name="渠道地形图_DMTZ" alias="渠道地形图_DMTZ" volatile="unknown">
+          <Visibility visible="true">
+            <VisibleRange enabled="true">
+              <ZoomRange uom="mapinfo:length m" minInclusive="true" maxInclusive="false">0 1000000</ZoomRange>
+            </VisibleRange>
+          </Visibility>
+          <DataSourceRef ref="id6" />
+        </FeatureLayer>
+        <FeatureLayer id="id39" name="渠道地形图_SXSS" alias="渠道地形图_SXSS" volatile="unknown">
+          <Visibility visible="true">
+            <VisibleRange enabled="true">
+              <ZoomRange uom="mapinfo:length m" minInclusive="true" maxInclusive="false">0 50000</ZoomRange>
+            </VisibleRange>
+          </Visibility>
+          <DataSourceRef ref="id15" />
+        </FeatureLayer>
+        <FeatureLayer id="id40" name="渠道地形图_ZBTZ" alias="渠道地形图_ZBTZ" volatile="unknown">
+          <Visibility visible="true">
+            <VisibleRange enabled="true">
+              <ZoomRange uom="mapinfo:length m" minInclusive="true" maxInclusive="false">0 2500</ZoomRange>
+            </VisibleRange>
+          </Visibility>
+          <DataSourceRef ref="id17" />
+        </FeatureLayer>
+        <FeatureLayer id="id41" name="渠道地形图_ASSIST" alias="渠道地形图_ASSIST" volatile="unknown">
+          <Visibility visible="true">
+            <VisibleRange enabled="true">
+              <ZoomRange uom="mapinfo:length m" minInclusive="true" maxInclusive="false">0 30000</ZoomRange>
+            </VisibleRange>
+          </Visibility>
+          <DataSourceRef ref="id2" />
+        </FeatureLayer>
+        <FeatureLayer id="id42" name="渠道地形图_JMD" alias="渠道地形图_JMD" volatile="unknown">
+          <Visibility visible="true">
+            <VisibleRange enabled="true">
+              <ZoomRange uom="mapinfo:length m" minInclusive="true" maxInclusive="false">0 4000</ZoomRange>
+            </VisibleRange>
+          </Visibility>
+          <DataSourceRef ref="id11" />
+        </FeatureLayer>
+        <FeatureLayer id="id43" name="渠道地形图_TF" alias="渠道地形图_TF" volatile="unknown">
+          <Visibility visible="true">
+            <VisibleRange enabled="true">
+              <ZoomRange uom="mapinfo:length m" minInclusive="true" maxInclusive="false">0 90000</ZoomRange>
+            </VisibleRange>
+          </Visibility>
+          <DataSourceRef ref="id16" />
+        </FeatureLayer>
+      </LayerList>
+      <MapLegendSet />
+    </MapDefinition>
+  </MapDefinitionSet>
+  <MapinfoApplicationData>
+    <MapXtremeWindows>
+      <MapToolsSet>
+        <MapTools ref="id22">
+          <BaseMapToolProperties>
+            <MapToolProperties>
+              <InfotipProperties>
+                <MapToolFilter name="MapInfo.Tools.MapToolsDefault.InfoTipLayers">
+                  <MapToolInitialFilter>
+                    <MapLayerTypeFilter types="drillDown grid vector raster seamless wms" />
+                  </MapToolInitialFilter>
+                  <LayerInclude refs="id23 id24 id25 id26 id27 id28 id29 id30 id31 id32 id33 id34 id35 id36 id37 id38 id39 id40 id41 id42 id43" />
+                  <MapToolFinalFilter>
+                    <MapLayerVisibilityFilter useVisible="true" useNotVisible="false" />
+                  </MapToolFinalFilter>
+                </MapToolFilter>
+              </InfotipProperties>
+              <SnapToNodeProperties>
+                <MapToolFilter name="MapInfo.Tools.MapToolsDefault.SnapLayers">
+                  <MapToolInitialFilter>
+                    <MapLayerTypeFilter types="vector" />
+                  </MapToolInitialFilter>
+                  <LayerInclude refs="id23 id24 id25 id26 id27 id28 id29 id30 id31 id32 id33 id34 id35 id36 id37 id38 id39 id40 id41 id42 id43" />
+                  <MapToolFinalFilter>
+                    <MapLayerVisibilityFilter useVisible="true" useNotVisible="false" />
+                  </MapToolFinalFilter>
+                </MapToolFilter>
+              </SnapToNodeProperties>
+            </MapToolProperties>
+          </BaseMapToolProperties>
+          <BaseInsertionToolProperties>
+            <InsertionToolProperties>
+              <MapToolFilter name="MapInfo.Tools.MapToolsDefault.InsertionLayers">
+                <MapToolInitialFilter>
+                  <MapLayerVisibilityFilter useVisible="false" useNotVisible="false" />
+                </MapToolInitialFilter>
+                <LayerExclude refs="id23 id24 id25 id26 id27 id28 id29 id30 id31 id32 id33 id34 id35 id36 id37 id38 id39 id40 id41 id42 id43" />
+                <MapToolFinalFilter>
+                  <MapLayerVisibilityFilter useVisible="true" useNotVisible="false" />
+                </MapToolFinalFilter>
+              </MapToolFilter>
+            </InsertionToolProperties>
+          </BaseInsertionToolProperties>
+          <BaseSelectionToolProperties>
+            <SelectionToolProperties>
+              <SelectionProperties>
+                <MapToolFilter name="MapInfo.Tools.MapToolsDefault.SelectLayers">
+                  <MapToolInitialFilter>
+                    <MapLayerTypeFilter types="vector" />
+                  </MapToolInitialFilter>
+                  <LayerInclude refs="id23 id24 id25 id26 id27 id28 id29 id30 id31 id32 id33 id34 id35 id36 id37 id38 id39 id40 id41 id42 id43" />
+                  <MapToolFinalFilter>
+                    <MapLayerVisibilityFilter useVisible="true" useNotVisible="false" />
+                  </MapToolFinalFilter>
+                </MapToolFilter>
+              </SelectionProperties>
+              <EditingProperties>
+                <MapToolFilter name="MapInfo.Tools.MapToolsDefault.EditLayers">
+                  <MapToolInitialFilter>
+                    <MapLayerVisibilityFilter useVisible="false" useNotVisible="false" />
+                  </MapToolInitialFilter>
+                  <LayerExclude refs="id23 id24 id25 id26 id27 id28 id29 id30 id31 id32 id33 id34 id35 id36 id37 id38 id39 id40 id41 id42 id43" />
+                  <MapToolFinalFilter>
+                    <MapLayerVisibilityFilter useVisible="true" useNotVisible="false" />
+                  </MapToolFinalFilter>
+                </MapToolFilter>
+              </EditingProperties>
+            </SelectionToolProperties>
+          </BaseSelectionToolProperties>
+        </MapTools>
+      </MapToolsSet>
+    </MapXtremeWindows>
+  </MapinfoApplicationData>
+</WorkSpace>
